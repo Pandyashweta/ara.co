@@ -1,1 +1,1 @@
-# ara.co
+# Āra.co Ecommerce Project
